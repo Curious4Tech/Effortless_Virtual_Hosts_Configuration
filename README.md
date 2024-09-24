@@ -14,9 +14,9 @@ Virtual hosts allow you to host multiple websites on the same server, each with 
 
 Follow these steps to set up virtual hosts on your Linux server:
 
-Prerequisites
-Apache is installed on your Linux server.
-You have access to the server with root or sudo privileges.
+## Prerequisites :
+- Apache is installed on your Linux server.
+- You have access to the server with root or sudo privileges.
 
 ## Step 1: Install Apache
 If Apache isn’t already installed, you can install it with the following command:
