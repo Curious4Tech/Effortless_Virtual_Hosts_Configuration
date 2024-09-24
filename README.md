@@ -1,5 +1,3 @@
-Here is a compelling and simple-to-follow GitHub README.md file for the multiple virtual hosts configuration on Linux:
-
 # Effortless Multi-Site Hosting with Apache Virtual Hosts
 
 Running multiple websites on a single server doesn't have to be a hassle. With Apache virtual hosts, you can quickly and easily set up separate configurations for each of your web projects.
