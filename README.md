@@ -12,7 +12,7 @@ Virtual hosts allow you to host multiple websites on the same server, each with 
 
 ## Getting Started
 
-Follow these steps to set up virtual hosts on your Linux server:
+Follow these steps to set up virtual hosts on your Linux server.
 
 ## Prerequisites :
 - Apache is installed on your Linux server.
@@ -122,7 +122,7 @@ Now, you can test the virtual hosts by visiting ```http://example.com``` and ```
 
 You can confirm that your virtual hosts are enabled and running with the following commands:
 ```
-apachectl configtest  # Check the Apache configuration
+sudo apachectl configtest  # Check the Apache configuration
 sudo systemctl status apache2  # Ubuntu/Debian
 sudo systemctl status httpd    # CentOS/RHEL
 ```
